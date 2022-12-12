@@ -1,7 +1,7 @@
 # Weather App
 
 ## Neler Öğrendim
-### Angela Yu'nun udemy eğitinde kaynak alınarak yapılmıştır.
+### Angela Yu'nun udemy eğitiminden kaynak alınarak yapılmıştır.
 
 * CoreLocation
 * Json Parse
